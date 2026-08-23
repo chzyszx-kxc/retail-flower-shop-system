@@ -1,6 +1,6 @@
 # 这个项目还未完成，将来会显示的内容请参考设计稿：
-手机小程序设计稿：https://www.figma.com/proto/OudupNW0gaAaclXLltVWqF/logoflowerfrontend?node-id=0-1&t=NJdCRjtRec3JygOG-1
-ToB端管理后台设计稿：https://www.figma.com/proto/fDorE7AEPpwA1FCiYKr1FK/flowerbackend?node-id=0-1&t=94Bj2nTEpSsiUHnG-1
+手机小程序设计稿：https://www.figma.com/design/OudupNW0gaAaclXLltVWqF/logoflowerfrontend?node-id=0-1&t=TnkNiTQLW1UOTIEr-1
+ToB端管理后台设计稿：[https://www.figma.com/proto/fDorE7AEPpwA1FCiYKr1FK/flowerbackend?node-id=0-1&t=94Bj2nTEpSsiUHnG-1](https://www.figma.com/design/fDorE7AEPpwA1FCiYKr1FK/flowerbackend?node-id=0-1&t=94Bj2nTEpSsiUHnG-1)
 
 # Retail Flower Shop System
 
