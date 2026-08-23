@@ -1,3 +1,7 @@
+# 这个项目还未完成，将来会显示的内容请参考设计稿：
+手机小程序设计稿：https://www.figma.com/proto/OudupNW0gaAaclXLltVWqF/logoflowerfrontend?node-id=0-1&t=NJdCRjtRec3JygOG-1
+ToB端管理后台设计稿：https://www.figma.com/proto/fDorE7AEPpwA1FCiYKr1FK/flowerbackend?node-id=0-1&t=94Bj2nTEpSsiUHnG-1
+
 # Retail Flower Shop System
 
 基于 uni-app、Vue 3、TypeScript、Django REST Framework 和 MySQL 开发的零售花店系统，包含兼容 H5 与微信小程序的商城、管理后台、后端 API 和部署配置。
