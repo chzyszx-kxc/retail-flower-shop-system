@@ -1,0 +1,20 @@
+/* 所有元素的尺寸都包含 padding 和 border */
+* {
+  box-sizing: border-box;
+}
+
+/* 让应用具备完整的页面高度 */
+html,
+body,
+#app {
+  min-height: 100%;
+}
+
+/* 管理后台采用桌面优先布局 */
+body {
+  min-width: 1024px;
+  margin: 0;
+  color: #000000;
+  background: #ffffff;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}

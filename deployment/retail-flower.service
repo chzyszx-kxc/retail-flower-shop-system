@@ -1,0 +1,15 @@
+[Unit]
+Description=Retail Flower Shop Django
+After=network.target mysql.service
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/opt/apps/retail-flower-backend
+Environment=PYTHONUNBUFFERED=1
+ExecStart=/opt/apps/retail-flower-backend/.venv/bin/gunicorn --workers 2 --bind 127.0.0.1:8010 --access-logfile - --error-logfile - config.wsgi:application
+Restart=on-failure
+RestartSec=3
+
+[Install]
+WantedBy=multi-user.target

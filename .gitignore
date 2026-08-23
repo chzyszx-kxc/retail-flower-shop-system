@@ -1,0 +1,30 @@
+# Environment variables and credentials
+**/.env
+**/.env.*
+!**/.env.example
+
+# Dependencies and build output
+**/node_modules/
+**/dist/
+**/build/
+**/.venv/
+
+# Python runtime files
+**/__pycache__/
+**/*.py[cod]
+*.sqlite3
+
+# Logs and test output
+*.log
+coverage/
+
+# Private keys and certificates
+*.pem
+*.key
+*.p12
+*.pfx
+
+# IDE and operating-system files
+.idea/
+.vscode/
+.DS_Store
