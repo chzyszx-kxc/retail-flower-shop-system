@@ -93,3 +93,22 @@ npm run dev:mp-weixin
 ## 数据说明
 
 数据库结构通过 Django migrations 管理，公开仓库不包含本地数据库文件和运行时业务数据。
+
+# 图片
+![Uploading image.png…]()
+
+<img width="992" height="665" alt="image" src="https://github.com/user-attachments/assets/4e988ec5-de88-4962-a414-8af84ee72695" />
+
+<img width="508" height="1020" alt="image" src="https://github.com/user-attachments/assets/7610f6c7-7c0b-475c-9762-52ac8f3e7f85" />
+
+<img width="351" height="671" alt="image" src="https://github.com/user-attachments/assets/7ad344b9-a11e-4b62-a50c-dce6d7d6d097" />
+
+<img width="850" height="594" alt="image" src="https://github.com/user-attachments/assets/b780781d-6122-47b5-9301-b81c8fb4f39a" />
+
+
+<img width="864" height="570" alt="image" src="https://github.com/user-attachments/assets/1789eaa5-be63-407c-bee2-dab3280b0bed" />
+
+<img width="461" height="502" alt="image" src="https://github.com/user-attachments/assets/b58f28a5-9f00-4c5e-9a1d-32a946409c30" />
+
+<img width="1015" height="722" alt="image" src="https://github.com/user-attachments/assets/5f7276ae-9b14-40a2-bb66-8d34099bb22e" />
+
