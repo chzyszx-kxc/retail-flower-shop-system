@@ -112,3 +112,5 @@ npm run dev:mp-weixin
 
 <img width="1015" height="722" alt="image" src="https://github.com/user-attachments/assets/5f7276ae-9b14-40a2-bb66-8d34099bb22e" />
 
+![Uploading image.png…]()
+
