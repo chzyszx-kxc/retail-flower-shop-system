@@ -1,5 +1,6 @@
 # 最新版本的手机端(H5)展示(项目仍未完成)
 http://115.29.203.212/retail-flower/
+增加了地址管理和商品详情页展示
 
 # 这个项目还未完成，将来会显示的内容请参考设计稿：
 手机小程序设计稿：https://www.figma.com/design/OudupNW0gaAaclXLltVWqF/logoflowerfrontend?node-id=0-1&t=TnkNiTQLW1UOTIEr-1
