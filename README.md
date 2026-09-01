@@ -1,3 +1,6 @@
+# 最新版本的手机端(H5)展示(项目仍未完成)
+http://115.29.203.212/retail-flower/
+
 # 这个项目还未完成，将来会显示的内容请参考设计稿：
 手机小程序设计稿：https://www.figma.com/design/OudupNW0gaAaclXLltVWqF/logoflowerfrontend?node-id=0-1&t=TnkNiTQLW1UOTIEr-1
 ToB端管理后台设计稿：[[https://www.figma.com/proto/fDorE7AEPpwA1FCiYKr1FK/flowerbackend?node-id=0-1&t=94Bj2nTEpSsiUHnG-1](https://www.figma.com/design/fDorE7AEPpwA1FCiYKr1FK/flowerbackend?node-id=0-1&t=94Bj2nTEpSsiUHnG-1)](https://www.figma.com/design/fDorE7AEPpwA1FCiYKr1FK/flowerbackend?node-id=0-1&t=ZhhM4uEAQYUpQKJJ-1)
